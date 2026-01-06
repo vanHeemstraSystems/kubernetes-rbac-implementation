@@ -1,8 +1,4 @@
-![DeepWiki](https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FvanHeemstraSystems%2Fkubernetes-rbac-implementation)
-
-[![Quarto Publish](https://github.com/GITHUB-ORGANIZATION/REPOSITORY-NAME/actions/workflows/publish.yml/badge.svg)](https://github.com/GITHUB-ORGANIZATION/REPOSITORY-NAME/actions/workflows/publish.yml)
-
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vanHeemstraSystems/kubernetes-rbac-implementation)
 
 # Kubernetes RBAC Implementation Lab
 
